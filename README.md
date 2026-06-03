@@ -2,9 +2,9 @@
 
 Downloadsフォルダが散らかってきたので作った、ファイル自動整理ツールです。ファイルを拡張子ごとに分類して、それぞれのフォルダに移動します。
 
-## フォルダ構成と整理イメージ
+## フォルダ構成と整理前と整理後のイメージ
 
-### 整理前
+### Before
 ```text
 SmartFileOrganizer/
 └─ test_folder/
@@ -13,7 +13,7 @@ SmartFileOrganizer/
     ├─ memo.txt
     └─ game.exe
 ```
-### 整理後
+### after
 ```text
 SmartFileOrganizer/
 └── test_folder/
