@@ -4,7 +4,7 @@
 
 ## フォルダ構成と整理前と整理後のイメージ
 
-### Before
+### 整理前(Before)
 ```text
 SmartFileOrganizer/
 └─ test_folder/
@@ -13,7 +13,7 @@ SmartFileOrganizer/
     ├─ memo.txt
     └─ game.exe
 ```
-### after
+### 整理後(after)
 ```text
 SmartFileOrganizer/
 └── test_folder/
