@@ -12,3 +12,16 @@ SmartFileOrganizer/
     ├─ document.pdf
     ├─ memo.txt
     └─ game.exe
+
+### 整理後
+```text
+SmartFileOrganizer/
+└── test_folder/
+    ├── images/
+    │   └── Sample.jpg
+    ├── pdf/
+    │   └── document.pdf
+    ├── text/
+    │   └── memo.txt
+    └── exes/
+        └── game.exe
